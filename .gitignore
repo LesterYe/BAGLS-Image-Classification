@@ -1,0 +1,5 @@
+# ignore dataset files
+BAGLS_files\raw.zip
+BAGLS_files\training.zip
+BAGLS_files\test.zip
+BAGLS_files\videos.zip
